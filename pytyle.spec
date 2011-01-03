@@ -22,8 +22,8 @@ on a per screen per workspace basis, and continually tile your
 windows.
 
 %description -l pl.UTF-8
-PyTyle jest manualnym manadżerem kafelkowania, który współpracuje z
-manadżerami okien zgodnymi z EWMH. Umożliwia włączanie/wyłączanie
+PyTyle jest manualnym manadżerem kafelkowania, który współpracuje
+z manadżerami okien zgodnymi z EWMH. Umożliwia włączanie/wyłączanie
 kafelkowania na ekranie przestrzeni roboczej oraz ciągłe kafelkowanie
 okien.
 
